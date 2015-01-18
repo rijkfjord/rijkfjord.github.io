@@ -1,0 +1,12 @@
+# Site settings
+title: Restless
+email: r@zyz.com
+description: > # this means to ignore newlines until "baseurl:"
+  Rexo plexo magnetite.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rijkfjord.github.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
